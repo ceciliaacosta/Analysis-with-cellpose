@@ -1,0 +1,2 @@
+# Analysis with cellpose
+ This GitHub contains all the necessary scripts that come from different software such as Fiji and Cellpose to be able to do analysis of microscopy images. More precisely it is adapted for bacteria. It can do analysis concerning the colocalization, the cell lenght and integrated intensity and the number of particles per cell according to any criteria. Also the distance of the particles from the cell center.  
